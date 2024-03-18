@@ -1,1 +1,1 @@
-# Jogo-de-adivinha-o-numero
+# Jogo-de-adivinhar-o-numero
